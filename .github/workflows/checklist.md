@@ -51,6 +51,7 @@
   - ただし，グラフの場合（後述）は指数を使う
 - [ ] 数字~単位とする [参考](https://github.com/dbgroup-nagoya-u/202004-bachelor-thesis-nohara/pull/8#discussion_r574713763)
   - 数字と単位の間で改行されないようにするため
+  - 必要に応じてsiunitxパッケージを使ってもいいかも
 - [ ] 実験環境の記述をしている
 
 ```bash
