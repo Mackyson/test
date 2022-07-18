@@ -1,5 +1,4 @@
 # LaTeX用テンプレートリポジトリ <!-- omit in toc -->
-
 LaTeXによる文書作成のためのテンプレートリポジトリです．[paper-lintrules](https://github.com/dbgroup-nagoya-u/paper-lintrules)で指定したルールに基づいて各種linterを動作させ，文章の質を向上させることを目的としています．主な機能は以下の2つです．
 
 1. VS Code上でのリアルタイム文章校正．
